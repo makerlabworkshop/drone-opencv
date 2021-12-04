@@ -1,7 +1,7 @@
 import cv2
 import mediapipe as mp
 import time
-
+# link for python 3.9 https://www.python.org/ftp/python/3.9.6/python-3.9.6-amd64.exe
 cap = cv2.VideoCapture(0)
 
 mpHands = mp.solutions.hands
